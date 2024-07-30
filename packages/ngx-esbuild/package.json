@@ -21,7 +21,7 @@
   "dependencies": {
     "@nx/devkit": "^17.0.2",
     "tslib": "^2.3.0",
-    "@craftamap/esbuild-plugin-html": "^0.6.1",
+    "@craftamap/esbuild-plugin-html": "^0.7.0",
     "esbuild": "^0.19.5",
     "postcss": "^8.4.31",
     "postcss-import": "^15.1.0",
